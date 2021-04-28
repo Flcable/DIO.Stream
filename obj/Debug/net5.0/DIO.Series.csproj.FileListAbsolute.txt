@@ -1,0 +1,16 @@
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\DIO.Stream.exe
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\DIO.Stream.deps.json
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\DIO.Stream.runtimeconfig.json
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\DIO.Stream.runtimeconfig.dev.json
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\DIO.Stream.dll
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\ref\DIO.Stream.dll
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\bin\Debug\net5.0\DIO.Stream.pdb
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.csprojAssemblyReference.cache
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.AssemblyInfoInputs.cache
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.AssemblyInfo.cs
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.csproj.CoreCompileInputs.cache
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.dll
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\ref\DIO.Stream.dll
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.pdb
+C:\Users\flcab\Documents\Cursos\Digitalinnovation\dotnet\DIO.Stream\obj\Debug\net5.0\DIO.Stream.genruntimeconfig.cache

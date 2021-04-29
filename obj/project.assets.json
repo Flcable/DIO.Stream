@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flcab\\Documents\\Cursos\\Digitalinnovation\\dotnet\\DIO.Stream\\DIO.Stream.csproj",
-      "projectName": "DIO.Stream",
-      "projectPath": "C:\\Users\\flcab\\Documents\\Cursos\\Digitalinnovation\\dotnet\\DIO.Stream\\DIO.Stream.csproj",
+      "projectUniqueName": "C:\\Users\\flcab\\Projects\\DIO.Stream\\DIO.Series.csproj",
+      "projectName": "DIO.Series",
+      "projectPath": "C:\\Users\\flcab\\Projects\\DIO.Stream\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\flcab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flcab\\Documents\\Cursos\\Digitalinnovation\\dotnet\\DIO.Stream\\obj\\",
+      "outputPath": "C:\\Users\\flcab\\Projects\\DIO.Stream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
